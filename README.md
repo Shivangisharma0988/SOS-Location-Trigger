@@ -1,0 +1,2 @@
+# SOS-Location-Trigger
+We have stumbled upon the fact that we need more reliable tracking methods and solutions for places with low network issues and people in dire need. Trekkers in general visit many such places and it is a problem to help them find their current location in case of emergency. Our project is an attempt forward to face the same problem, and we have named it "SOS Location Trigger". The basic idea behind it is to give the people the option to send a sms(even in low network cases) and within minutes his current location is shared with him on sms itself. 
